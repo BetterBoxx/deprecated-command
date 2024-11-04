@@ -1,5 +1,5 @@
 {
-  "name": "depreciated-command",
+  "name": "deprecated-command",
   "version": "1.0.0",
   "description": "Let users know that a command has been depreciated",
   "main": "index.js",
